@@ -107,10 +107,10 @@
 
 <div align="center">
 
-<a href="https://github.com/tushargahlaut/">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushargahlaut&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
+<a href="https://github.com/cranberryDev/">
+  <img src="https://github-readme-stats.vercel.app/api?username=cranberryDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
  width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargahlaut&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="tushargahlaut"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cranberryDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="cranberryDev"/>
 
 </a>
 </div>
@@ -131,8 +131,8 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/tushargahlaut/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  TUSHAR GAHLAUT-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/tanuj-p-8433b5103/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Tanuj Pant-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -140,8 +140,8 @@
 
 
 <li>
-<a href="mailto:tushargahlaut74@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  tushargahlaut74-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:tpcr7rm@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  TanujPant-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
